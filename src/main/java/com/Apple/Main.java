@@ -6,6 +6,5 @@ public class SumofTwoNumbers {
         int num2 = 20;
         int sum = num1 + num2;
         system.out.println("num1 + " + " + num2 + " = " + sum);
-                Sai Charan
     }
 }
